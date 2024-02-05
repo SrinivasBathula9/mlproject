@@ -1,0 +1,4 @@
+1.set up gihub {Repository}
+   a. create new environment
+   b. setup.py
+   c. requiremnts.txt
